@@ -1,4 +1,8 @@
-
+---
+title: 3rd Week Retrospective
+date: 2013-02-015 13:33 -07:00
+tags:
+---
 
 It's hard to believe that we're only at week 3.  It feels like we've been doing these projects for a while now.  The techniques that I now have under my belt are things that still seem rather basic- for instance on the last project when I was having diffculty understanding the difference between instance and class variables at a practical level.  I would basically pick one, and then run a test to see if it was the correct way.  Now I understand the difference a bit better and thinking about things in general as class objects seems to be more inuitive.  I'm also making a lot less stupid errors.  It seemed like last week, every other error was an issue that was syntax based like a dangling or missing end.  Now, I'm still running up against errors like the nil class, but we've learned in class that those are common.  In addition- actually what is probably most important is the fact that I'm beginning to have more of a dialogue with error messages. I'm not sure if it's that we are constructing tests and constantly testing against failure, or if it's just a familiarity thing with seeing similar messages and knowing how to correct them, but I dread error messages a lot less.  I see them now as more informative whereas on the last few projects I would write code, run it, and hope that it didn't bring up any errors because I felt a lot less capable of understanding what was wrong.  
 
