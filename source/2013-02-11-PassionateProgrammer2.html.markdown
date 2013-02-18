@@ -1,11 +1,11 @@
-**************************
-* Paul Blackwell's gSchool blog
-*
-*The Passionate Programmer pt. 2 Post
+---
+title: Passionate Programmer2
+date: 2013-02-11
+---
 
 What is the over-arching message of The Passionate Programmer?
 
-The Passionate Programmer is about informing programmers about the importance of things that are ostensibly not directly related to programming.  The overarching message is that these things- such as understanding the industry you're in or not getting too dependent on one technology- are things that need to be paid attention to if one wants to have a successful career.  The book reads like a series of letters that are rooted in Chuck's personal experiences.  He is reflecting back to help programmers live as fulfilled a career as they can.  He discusses how a lot of progammers tend to gravitate toward focusing on coding and solitude.  Fowler builds this illustration of the typical programmer as someone who likes to be left alone to do his or her individual work.  If there is any message in this book, it's that as a programmer you are a part of something larger: a changing landscape where technologies are constantly evolving, business departments are interacting and trying to cohesively solve problems, and programmers are doing their best to build great products and ultimately great lives.  To achieve success in this environment an understanding of how you fit in is crucial.
+The Passionate Programmer is about informing programmers about the importance of things that are ostensibly not directly related to programming.  The overarching message is that these things- such as understanding the industry you're in or not getting too dependent on one technology- are things that need to be paid attention to if one wants to have a successful career.  The book reads like a series of letters that are rooted in Chad's personal experiences.  He is reflecting back to help programmers live as fulfilled a career as they can.  He discusses how a lot of progammers tend to gravitate toward focusing on coding and solitude.  Fowler builds this illustration of the typical programmer as someone who likes to be left alone to do his or her individual work.  If there is any message in this book, it's that as a programmer you are a part of something larger: a changing landscape where technologies are constantly evolving, business departments are interacting and trying to cohesively solve problems, and programmers are doing their best to build great products and ultimately great lives.  To achieve success in this environment an understanding of how you fit in is crucial.
 
 What lessons from the book can you apply to your work in our program?
 

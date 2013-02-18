@@ -11,3 +11,5 @@ In summary, I liked the project, but I plan to do almost everything differently 
 4) I also want to review the fundamentals of ruby before our next program on Monday.  I think being more comfortable and not letting the syntax or programming style get in my way would make solving the actual problems with the program more managable.
 
 My code for the project can be found at: https://github.com/pnblackwell/event_reporter
+
+
