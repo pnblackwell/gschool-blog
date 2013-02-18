@@ -32,3 +32,4 @@ and then went to
 
   @first_name ||=''
 
+Reading Eloquent Ruby has been helpful because it is putting a lot of code into context.  I'm beginning to understand why certain things are written different than others.
