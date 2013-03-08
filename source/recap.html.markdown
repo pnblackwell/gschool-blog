@@ -1,3 +1,9 @@
+---
+title: Event Reporter Recap
+date: 2013-02-08
+---
+
+
 We just wrapped up working on Event Reporter which was a project that was built on top of our previous two projects, Micro Blogger and Event Manager.  In this project we were parsing through the save .csv file that we used in Event Manager and returning results based on input from a user.  This project was assessed based on its ability to follow explicit steps that Jeff had laid out beforehand.  The project required the programmer to create different reponses to different prompts from the user and the resulting program was laid out a lot like a decision tree.  We had to create different methods to respond properly to the question that was being asked.  In some instances we had to manipulate the data in order to present it properly to the user and in some cases we had to focus on presenting the data to the user in a way that was easy to understand.  
 
 The file itself consisted of names from a registry and the information associated with their name: their address, phone number, email etc. and it was our job to make the thousands of records in the file searchable.  
