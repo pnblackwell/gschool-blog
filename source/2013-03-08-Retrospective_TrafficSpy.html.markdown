@@ -26,4 +26,4 @@ If I really believed in the candidate or movement I would.
 
 <b>Are you feeling relatively comfortable with databases, or is it, to paraphrase the amazing Bill O’Reilly, "data goes in, data goes out, you can’t explain that!"</b>
 
-I feel like a mixture of both.  There are still some questions, but I've reached a point where I don't really question too much of how this is happening and I focus on testing databases out to see if they 
+I feel like a mixture of both.  There are still some questions, but I've reached a point where I don't really question too much of how this is happening and I focus on testing databases out to see if they are giving me consistent output.  I'm definitely as bad as Papa Bill though.
