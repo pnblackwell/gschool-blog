@@ -12,18 +12,18 @@
     %title= data.page.title
     / Included CSS Files
     <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet">
-    = stylesheet_link_tag "app", "theme"
+    = stylesheet_link_tag "bootstrap.min.css"
     = javascript_include_tag "foundation/modernizr.foundation"
     %link{rel: "alternate", type: "application/rss+xml", title: "RSS Feed", href: "feed.xml"}
     
   %body{class: page_classes}
     .row
-      .twelve.columns
+      .span12
         %h2
           %a{href: "/"}= data.site.title
         %hr
     .row
-      .eight.columns
+      .span8
         = yield
       / Application Javascript, safe to override
       = javascript_include_tag "app"
