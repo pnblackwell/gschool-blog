@@ -1,6 +1,6 @@
 ---
 title: EloquentRuby1
-date: 2013-02-18
+date: 2013-02-18 09:00 -07:00
 ---
 
 I thought I understood the basic rules of programming- or at least how a computer program interprets what I enter into it before reading the section on optional expressions in Chapter 2.  The fact that you can create a conditional (maybe until isn't quite a conditional) after you have the actual command changed the way about how computers assess code. The section started off with this line of code: 

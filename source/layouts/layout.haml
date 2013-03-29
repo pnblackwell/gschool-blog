@@ -17,13 +17,16 @@
     %link{rel: "alternate", type: "application/rss+xml", title: "RSS Feed", href: "feed.xml"}
     
   %body{class: page_classes}
+
+    /top bar
+    
     .row
-      .span12
+      .span8
         %h2
           %a{href: "/"}= data.site.title
         %hr
     .row
-      .span8
+      .span6
         = yield
       / Application Javascript, safe to override
       = javascript_include_tag "app"

@@ -1,6 +1,6 @@
 ---
 title: Passionate Programmer2
-date: 2013-02-11
+date: 2013-02-11 09:00 -07:00
 ---
 
 What is the over-arching message of The Passionate Programmer?
