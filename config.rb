@@ -21,7 +21,7 @@ activate :blog do |blog|
   # blog.taglink = "tags/:tag.html"
   blog.layout = "article_layout"
   blog.summary_separator = /(READMORE)/
-  # blog.summary_length = 250
+   blog.summary_length = 250
   # blog.year_link = ":year.html"
   # blog.month_link = ":year/:month.html"
   # blog.day_link = ":year/:month/:day.html"
@@ -32,7 +32,7 @@ activate :blog do |blog|
 
   blog.paginate = true
   # blog.per_page = 10
-  # blog.page_link = "page/:num"
+  # blog.page_link = "page/:num
 end
 
 # Per-page layout changes:
@@ -46,7 +46,8 @@ page "style.html", layout: "raw"
 
 #
 # With alternative layout
-# page "/path/to/file.html", :layout => :otherlayout
+page "/path/to/file.html", :layout => :otherlayout
+page "resume.html", layout: "no_sidebar.haml"
 #
 # A path which all have the same layout
 # with_layout :admin do

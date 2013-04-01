@@ -11,8 +11,8 @@
     %meta{content: "width=device-width, initial-scale=1.0", name: "viewport"}
     %title= data.page.title
     / Included CSS Files
-    <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet">
-    = stylesheet_link_tag "bootstrap.min.css"
+    / <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet">
+    = stylesheet_link_tag "app", "theme"
     = javascript_include_tag "foundation/modernizr.foundation"
     %link{rel: "alternate", type: "application/rss+xml", title: "RSS Feed", href: "feed.xml"}
     
